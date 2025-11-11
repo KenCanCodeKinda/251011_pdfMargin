@@ -1,0 +1,4 @@
+([('PDF Margin Editor',
+   '/Users/penguin/Library/CloudStorage/OneDrive-Personal/03_Coding/251011_pdfMargin/dist/PDF '
+   'Margin Editor',
+   'EXECUTABLE')],)
